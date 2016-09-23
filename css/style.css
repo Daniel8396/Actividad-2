@@ -93,7 +93,7 @@ aside{
 
 footer{
 width: 1000px;
-height: 280px;
+height: 200px;
 background: orange;
 float: left;
 margin-top: 20px;
@@ -103,7 +103,7 @@ margin-bottom: 20px;
 
 p{
 
-	font-size: 15px;
+	font-size: 10px;
 	font-weight: bolder;
 	line-height: 24px;
 	padding: 10px;
