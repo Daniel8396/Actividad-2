@@ -14,14 +14,14 @@
 
 /*ETIQUETAS*/
 body{
-background-image: url(../img/fondo.jpg);
+background: white;
 background-repeat: no-repeat;
 background-size: cover;
 }
 
 h1{
 font-family: 'Shadows Into Light', cursive;
-color: white;
+color: blue;
 margin-left: 10px;
 font-size: 40px;
 text-align: center; 
@@ -29,7 +29,7 @@ text-align: center;
 
 h2{
 font-family: 'Indie Flower', cursive;
-color: white;
+color: blue;
 margin-left: 10px;
 font-size: 20px;
 text-align: left; 
@@ -37,7 +37,7 @@ text-align: left;
 
 h3{
 font-family: 'Shadows Into Light', cursive;;
-color: white;
+color: blue;
 font-size: 30px;
 text-align: center; 
 }
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: blue;
+background: orange;
 border-radius: 10px;
 
 }
