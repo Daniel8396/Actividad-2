@@ -23,7 +23,7 @@ h1{
 font-family: 'Shadows Into Light', cursive;
 color: white;
 margin-left: 10px;
-font-size: 60px;
+font-size: 40px;
 text-align: center; 
 }
 
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: blue;
 border-radius: 10px;
 
 }
