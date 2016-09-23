@@ -94,9 +94,9 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: orange;
 float: left;
-margin-top: 20px;
+margin-top: 40px;
 border-radius: 10px;
 margin-bottom: 20px;
 }
